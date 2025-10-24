@@ -1,0 +1,10 @@
+Qual será a previsão de vendas de sorvete para amanhã se a temperatura for 30°C?
+A temperatura influencia diretamente nas vendas de sorvete?
+Como o modelo reage a temperaturas abaixo de 20°C?
+Quais são os fatores que mais impactam as vendas de sorvete?
+O modelo pode ser usado em outras regiões com clima diferente?
+Existe correlação entre umidade e vendas de sorvete?
+Como o MLflow ajuda no rastreamento dos experimentos?
+É possível integrar esse modelo com uma API para previsões em tempo real?
+Quais métricas foram usadas para avaliar o desempenho do modelo?
+O modelo pode prever vendas em feriados ou fins de semana?
